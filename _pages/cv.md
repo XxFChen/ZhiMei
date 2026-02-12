@@ -206,29 +206,6 @@ redirect_from:
 
 ---
 
-<h2 class="cv-section-title">Research Supervision & Mentoring</h2>
-
-<div class="cv-card">
-  <div class="cv-detail">
-    <strong>Yuan Yin</strong> (MSc thesis) — Effects of quorum sensing on microbial degradation of polycyclic aromatic hydrocarbons
-  </div>
-</div>
-
-<div class="cv-card">
-  <div class="cv-detail">
-    <strong>Undergraduate students</strong> — Dynamic changes of antibiotic resistance genes in different soils
-  </div>
-</div>
-
-<div class="cv-card">
-  <div class="cv-detail">
-    <strong>Qingyuan Dou</strong> (PhD student) — Supervised experiments on antibiotic resistance genomes in plant leaves<br>
-    <em>Resulting publication: Journal of Cleaner Production, 2024</em>
-  </div>
-</div>
-
----
-
 <h2 class="cv-section-title">Conference Presentations</h2>
 
 <div class="cv-card">

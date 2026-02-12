@@ -10,108 +10,151 @@ redirect_from:
 {% include base_path %}
 
 <style>
-.cv-section {
-  margin-bottom: 30px;
-}
-.cv-item {
+.cv-section-title {
+  font-size: 1.3em;
+  color: #1a1a2e;
+  border-bottom: 2px solid #0f3460;
+  padding-bottom: 8px;
+  margin-top: 35px;
   margin-bottom: 20px;
-  padding: 15px;
-  background: #f8f9fa;
-  border-left: 4px solid #3498db;
+}
+.cv-card {
+  padding: 16px 20px;
+  margin-bottom: 15px;
+  background: #f7f9fc;
+  border-left: 3px solid #0f3460;
   border-radius: 4px;
 }
-.cv-title {
-  font-weight: bold;
-  color: #2c3e50;
-  font-size: 1.1em;
-  margin-bottom: 5px;
+.cv-card .cv-role {
+  font-weight: 600;
+  color: #1a1a2e;
+  font-size: 1.02em;
+  margin-bottom: 4px;
 }
-.cv-subtitle {
-  color: #7f8c8d;
-  font-size: 0.95em;
+.cv-card .cv-org {
+  color: #0f3460;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+.cv-card .cv-date {
+  color: #e74c3c;
+  font-size: 0.88em;
+  font-weight: 600;
   margin-bottom: 8px;
 }
-.cv-date {
-  color: #e74c3c;
+.cv-card .cv-detail {
+  color: #555;
+  font-size: 0.92em;
+  line-height: 1.6;
+}
+.grant-list {
+  list-style: none;
+  padding: 0;
+}
+.grant-list li {
+  padding: 12px 16px;
+  margin-bottom: 10px;
+  background: #f7f9fc;
+  border-radius: 6px;
+  border-left: 3px solid #0f3460;
+  font-size: 0.93em;
+  line-height: 1.6;
+}
+.grant-list li strong {
+  color: #1a1a2e;
+}
+.patent-status {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-size: 0.82em;
   font-weight: 600;
-  float: right;
 }
-.timeline-item {
-  position: relative;
-  padding-left: 30px;
-  margin-bottom: 25px;
+.patent-status.authorized {
+  background: #27ae60;
+  color: white;
 }
-.timeline-item:before {
-  content: "●";
-  position: absolute;
-  left: 0;
-  color: #3498db;
-  font-size: 1.5em;
-  line-height: 0.8;
+.patent-status.review {
+  background: #f39c12;
+  color: white;
+}
+.skill-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 15px;
+  margin-bottom: 20px;
+}
+.skill-card {
+  padding: 16px 18px;
+  background: #f7f9fc;
+  border-radius: 6px;
+  border-top: 3px solid #0f3460;
+}
+.skill-card h4 {
+  margin: 0 0 10px 0;
+  color: #1a1a2e;
+  font-size: 0.95em;
+}
+.skill-card ul {
+  margin: 0;
+  padding-left: 18px;
+  font-size: 0.9em;
+  color: #555;
+}
+.skill-card ul li {
+  margin-bottom: 4px;
 }
 </style>
 
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="/files/CV_ZhiMei.pdf" style="background-color: #3498db; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block;">
-    📄 Download PDF Version
-  </a>
-</div>
+<h2 class="cv-section-title">Education</h2>
 
----
-
-## 🎓 Education
-
-<div class="cv-item">
-  <span class="cv-date">Sep 2018 - Jun 2024</span>
-  <div class="cv-title">Ph.D. in Environmental Microbiology (Straight-to-PhD)</div>
-  <div class="cv-subtitle">
-    <strong>University of Chinese Academy of Sciences (UCAS)</strong><br>
+<div class="cv-card">
+  <div class="cv-role">Ph.D. in Environmental Microbiology (Straight-to-PhD)</div>
+  <div class="cv-org">University of Chinese Academy of Sciences (UCAS)</div>
+  <div class="cv-date">Sep 2018 – Jun 2024</div>
+  <div class="cv-detail">
     Institute of Soil Science, Chinese Academy of Sciences (CAS), Nanjing, China<br>
-    Supervisor: Prof. Fang Wang
-  </div>
-  <div style="margin-top: 10px; font-style: italic; color: #555;">
-    Dissertation: Migration and Control of Manure-borne Antibiotic Resistance Genes in Soil-Vegetable Systems
+    Supervisor: Prof. Fang Wang<br>
+    <em>Dissertation: Migration and Control of Manure-borne Antibiotic Resistance Genes in Soil-Vegetable Systems</em>
   </div>
 </div>
 
-<div class="cv-item">
-  <span class="cv-date">Sep 2014 - Jul 2018</span>
-  <div class="cv-title">B.S. in Environmental Ecological Engineering</div>
-  <div class="cv-subtitle">
-    <strong>Shanxi University</strong>, Taiyuan, China
-  </div>
+<div class="cv-card">
+  <div class="cv-role">B.S. in Environmental Ecological Engineering</div>
+  <div class="cv-org">Shanxi University, Taiyuan, China</div>
+  <div class="cv-date">Sep 2014 – Jul 2018</div>
 </div>
 
 ---
 
-## 💼 Academic Appointments
+<h2 class="cv-section-title">Academic Appointments</h2>
 
-<div class="timeline-item">
-  <span class="cv-date">Nov 2025 - Present</span>
-  <div class="cv-title">Marie Sklodowska-Curie Postdoctoral Fellow (MSCA PF 2024)</div>
-  <div class="cv-subtitle">
-    <strong>Catalan Institute for Water Research (ICRA)</strong>, Girona, Spain<br>
+<div class="cv-card">
+  <div class="cv-role">Marie Sklodowska-Curie Postdoctoral Fellow (MSCA PF 2024)</div>
+  <div class="cv-org">Catalan Institute for Water Research (ICRA), Girona, Spain</div>
+  <div class="cv-date">Nov 2025 – Present</div>
+  <div class="cv-detail">
     Host/Supervisor: Prof. José Luis Balcázar Rojas<br>
     Project: NPLAMR (Grant Agreement No. 101206348)
   </div>
 </div>
 
-<div class="timeline-item">
-  <span class="cv-date">Jul 2025 - Oct 2025</span>
-  <div class="cv-title">Postdoctoral Researcher</div>
-  <div class="cv-subtitle">
-    <strong>University of Bonn</strong>, INRES - Soil Science and Soil Ecology, Germany<br>
+<div class="cv-card">
+  <div class="cv-role">Postdoctoral Researcher</div>
+  <div class="cv-org">University of Bonn, INRES – Soil Science and Soil Ecology, Germany</div>
+  <div class="cv-date">Jul 2025 – Oct 2025</div>
+  <div class="cv-detail">
     Supervisor: Prof. Wulf Amelung<br>
     Funding: Friends Scholarship by the DAAD-Stiftung<br>
     Research focus: Microbial ecology of soil macroaggregates
   </div>
 </div>
 
-<div class="timeline-item">
-  <span class="cv-date">Oct 2024 - Jun 2025</span>
-  <div class="cv-title">Postdoctoral Researcher</div>
-  <div class="cv-subtitle">
-    <strong>Hong Kong Baptist University (HKBU)</strong>, Department of Chemistry, Hong Kong<br>
+<div class="cv-card">
+  <div class="cv-role">Postdoctoral Researcher</div>
+  <div class="cv-org">Hong Kong Baptist University (HKBU), Department of Chemistry, Hong Kong</div>
+  <div class="cv-date">Oct 2024 – Jun 2025</div>
+  <div class="cv-detail">
     Supervisor: Prof. Kelvin S. Y. Leung<br>
     Research focus: Environmental biochemistry
   </div>
@@ -119,13 +162,13 @@ redirect_from:
 
 ---
 
-## 🌍 Visiting Scholar Experience
+<h2 class="cv-section-title">Visiting Scholar</h2>
 
-<div class="cv-item">
-  <span class="cv-date">Dec 2022 - Dec 2023</span>
-  <div class="cv-title">Visiting Ph.D. Student (Joint Program)</div>
-  <div class="cv-subtitle">
-    <strong>University of Helsinki</strong>, Finland<br>
+<div class="cv-card">
+  <div class="cv-role">Visiting Ph.D. Student (Joint Program)</div>
+  <div class="cv-org">University of Helsinki, Finland</div>
+  <div class="cv-date">Dec 2022 – Dec 2023</div>
+  <div class="cv-detail">
     Supervisor: Prof. Marko Virta<br>
     Funding: China Scholarship Council (CSC) No. 202104910451
   </div>
@@ -133,143 +176,116 @@ redirect_from:
 
 ---
 
-## 🏆 Fellowships, Grants & Key Projects
+<h2 class="cv-section-title">Fellowships, Grants & Key Projects</h2>
 
-<div class="cv-section">
-
-**Marie Sklodowska-Curie Actions Postdoctoral Fellowship (MSCA PF 2024)**  
-Grant Agreement No. 101206348 (NPLAMR)
-
-**Friends Scholarship by the DAAD-Stiftung**  
-Grant Agreement No. 57817788 (China Scholarship Council/CSC)
-
-**China Scholarship Council (CSC)**  
-Visiting Ph.D. Program at University of Helsinki, 2022-2023
-
-**International Atomic Energy Agency (IAEA) Project D15022**  
-Isotopic techniques to assess the fate of antimicrobials and implications for AMR in agricultural systems  
-*Project Principal Contributor*, 2021-2024
-
-**National Natural Science Foundation of China (NSFC) 41977137**  
-Reduction of ARGs from organic fertilizer sources in soil by microbial biofilm  
-*Project Principal Contributor*, 2020-2024
-
-**National Natural Science Foundation of China (NSFC) 21677149**  
-Biomass char inhibition on migration of ARGs from organic fertilizer sources in soil to plants  
-*Project Principal Contributor*, 2018-2020
-
-</div>
+<ul class="grant-list">
+  <li><strong>Marie Sklodowska-Curie Actions Postdoctoral Fellowship (MSCA PF 2024)</strong><br>Grant Agreement No. 101206348 (NPLAMR)</li>
+  <li><strong>Friends Scholarship by the DAAD-Stiftung</strong><br>Grant Agreement No. 57817788 · China Scholarship Council (CSC)</li>
+  <li><strong>China Scholarship Council (CSC)</strong><br>Visiting Ph.D. Program at University of Helsinki, 2022–2023</li>
+  <li><strong>International Atomic Energy Agency (IAEA) Project D15022</strong><br>Isotopic techniques to assess the fate of antimicrobials and implications for AMR in agricultural systems · Project Principal Contributor, 2021–2024</li>
+  <li><strong>NSFC 41977137</strong><br>Reduction of ARGs from organic fertilizer sources in soil by microbial biofilm · Project Principal Contributor, 2020–2024</li>
+  <li><strong>NSFC 21677149</strong><br>Biomass char inhibition on migration of ARGs from organic fertilizer sources in soil to plants · Project Principal Contributor, 2018–2020</li>
+</ul>
 
 ---
 
-## 📜 Patents
+<h2 class="cv-section-title">Patents</h2>
 
-<div class="cv-item">
-  <div class="cv-title">Method and efficacy evaluation of using carbon-based materials to inhibit the entry of antibiotic resistance genes into plant leaves</div>
-  <div class="cv-subtitle">
+<div class="cv-card">
+  <div class="cv-role">Method and efficacy evaluation of using carbon-based materials to inhibit the entry of antibiotic resistance genes into plant leaves</div>
+  <div class="cv-detail">
     Wang, F.*; <strong>Mei, Z.</strong>; Fu, Y.; Bian, Y.; Jiang, X.<br>
-    <strong>China Invention Patent No. ZL202110259591.4</strong><br>
-    <span style="color: #27ae60; font-weight: 600;">✓ Authorized: 2022-03-11</span>
+    China Invention Patent No. ZL202110259591.4 &nbsp;<span class="patent-status authorized">Authorized 2022-03-11</span>
   </div>
 </div>
 
-<div class="cv-item">
-  <div class="cv-title">A blocking material and its preparation, application, and efficacy detection</div>
-  <div class="cv-subtitle">
+<div class="cv-card">
+  <div class="cv-role">A blocking material and its preparation, application, and efficacy detection</div>
+  <div class="cv-detail">
     Wang, F.*; <strong>Mei, Z.</strong>; Fu, Y.; Bian, Y.; Xiang, L.; Dou, Q.; Deng, Y.; Liu, Y.; Zhang, T.; Jiang, X.<br>
-    <strong>China Invention Patent Application No. 202410335339.0</strong><br>
-    <span style="color: #f39c12; font-weight: 600;">⏳ Under review</span>
+    China Invention Patent Application No. 202410335339.0 &nbsp;<span class="patent-status review">Under Review</span>
   </div>
 </div>
 
 ---
 
-## 👨‍🏫 Research Supervision & Mentoring
+<h2 class="cv-section-title">Research Supervision & Mentoring</h2>
 
-- **Yuan Yin** (MSc thesis): Effects of quorum sensing on microbial degradation of polycyclic aromatic hydrocarbons
-
-- **Undergraduate students**: Dynamic changes of antibiotic resistance genes in different soils
-
-- **Qingyuan Dou** (PhD student): Supervised experiments on antibiotic resistance genomes in plant leaves  
-  *Resulting publication: Journal of Cleaner Production, 2024*
-
----
-
-## 🎤 Conference Presentations
-
-<div class="timeline-item">
-  <span class="cv-date">2019</span>
-  <div class="cv-title">Youth Geoscience Forum (6th Session)</div>
-  <div class="cv-subtitle">
-    Xining, China<br>
-    <strong>Oral presentation:</strong> Bioaccumulation of manure-borne ARGs in carrots and exposure assessment
+<div class="cv-card">
+  <div class="cv-detail">
+    <strong>Yuan Yin</strong> (MSc thesis) — Effects of quorum sensing on microbial degradation of polycyclic aromatic hydrocarbons
   </div>
 </div>
 
-<div class="timeline-item">
-  <span class="cv-date">2021</span>
-  <div class="cv-title">International Conference on Sustainable Technology and Development</div>
-  <div class="cv-subtitle">
-    Shenzhen, China<br>
-    <strong>Poster presentation</strong>
+<div class="cv-card">
+  <div class="cv-detail">
+    <strong>Undergraduate students</strong> — Dynamic changes of antibiotic resistance genes in different soils
   </div>
 </div>
 
-<div class="timeline-item">
-  <span class="cv-date">2022</span>
-  <div class="cv-title">Beijing Humboldt Forum on Earth Science and Sustainable Development</div>
-  <div class="cv-subtitle">
-    Nanjing, China<br>
-    <strong>Participant and volunteer</strong>
+<div class="cv-card">
+  <div class="cv-detail">
+    <strong>Qingyuan Dou</strong> (PhD student) — Supervised experiments on antibiotic resistance genomes in plant leaves<br>
+    <em>Resulting publication: Journal of Cleaner Production, 2024</em>
   </div>
 </div>
 
 ---
 
-## 🔧 Technical Skills
+<h2 class="cv-section-title">Conference Presentations</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-
-<div class="cv-item">
-  <div class="cv-title">🧬 Molecular Biology</div>
-  <ul style="margin: 10px 0; padding-left: 20px;">
-    <li>DNA extraction and purification</li>
-    <li>Stable isotope probing (DNA-SIP)</li>
-    <li>High-throughput qPCR</li>
-    <li>EpicPCR</li>
-    <li>Metagenomics and bioinformatics</li>
-  </ul>
+<div class="cv-card">
+  <div class="cv-role">Youth Geoscience Forum (6th Session)</div>
+  <div class="cv-date">2019 · Xining, China</div>
+  <div class="cv-detail"><strong>Oral presentation:</strong> Bioaccumulation of manure-borne ARGs in carrots and exposure assessment</div>
 </div>
 
-<div class="cv-item">
-  <div class="cv-title">🦠 Microbiology</div>
-  <ul style="margin: 10px 0; padding-left: 20px;">
-    <li>Bacterial isolation and cultivation</li>
-    <li>Biofilm characterization</li>
-    <li>Antibiotic degradation assays</li>
-    <li>Resistome analysis</li>
-  </ul>
+<div class="cv-card">
+  <div class="cv-role">International Conference on Sustainable Technology and Development</div>
+  <div class="cv-date">2021 · Shenzhen, China</div>
+  <div class="cv-detail"><strong>Poster presentation</strong></div>
 </div>
 
-<div class="cv-item">
-  <div class="cv-title">🔬 Analytical Chemistry</div>
-  <ul style="margin: 10px 0; padding-left: 20px;">
-    <li>HPLC-MS/MS for antibiotic quantification</li>
-    <li>Environmental sample preparation</li>
-    <li>Quality control and method validation</li>
-  </ul>
-</div>
-
+<div class="cv-card">
+  <div class="cv-role">Beijing Humboldt Forum on Earth Science and Sustainable Development</div>
+  <div class="cv-date">2022 · Nanjing, China</div>
+  <div class="cv-detail"><strong>Participant and volunteer</strong></div>
 </div>
 
 ---
 
-<div style="text-align: center; margin: 30px 0; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 10px;">
-  <h3 style="margin: 0 0 10px 0;">📧 Get in Touch</h3>
-  <p style="margin: 5px 0;">Email: <a href="mailto:zmei@icra.cat" style="color: white;">zmei@icra.cat</a></p>
-  <p style="margin: 5px 0;">ORCID: <a href="https://orcid.org/0000-0003-4840-3194" style="color: white;" target="_blank">0000-0003-4840-3194</a></p>
+<h2 class="cv-section-title">Technical Skills</h2>
+
+<div class="skill-grid">
+  <div class="skill-card">
+    <h4>Molecular Biology</h4>
+    <ul>
+      <li>DNA extraction and purification</li>
+      <li>Stable isotope probing (DNA-SIP)</li>
+      <li>High-throughput qPCR</li>
+      <li>EpicPCR</li>
+      <li>Metagenomics &amp; bioinformatics</li>
+    </ul>
+  </div>
+  <div class="skill-card">
+    <h4>Microbiology</h4>
+    <ul>
+      <li>Bacterial isolation and cultivation</li>
+      <li>Biofilm characterization</li>
+      <li>Antibiotic degradation assays</li>
+      <li>Resistome analysis</li>
+    </ul>
+  </div>
+  <div class="skill-card">
+    <h4>Analytical Chemistry</h4>
+    <ul>
+      <li>HPLC-MS/MS for antibiotic quantification</li>
+      <li>Environmental sample preparation</li>
+      <li>Quality control &amp; method validation</li>
+    </ul>
+  </div>
 </div>
 
-<div style="text-align: center; color: #95a5a6; font-size: 0.85em; margin-top: 20px;">
-  <em>Last updated: February 2026</em>
-</div>
+---
+
+<p style="text-align: center; color: #999; font-size: 0.85em; margin-top: 30px;"><em>Last updated: February 2026</em></p>

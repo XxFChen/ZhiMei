@@ -198,6 +198,100 @@ author_profile: true
 
 ---
 
+<h2 class="pub-section-title">Co-Author Publications (Selected)</h2>
+
+<div class="pub-card">
+  <div class="title">Distinct assembly patterns of soil antibiotic resistome revealed by land-use changes over 30 years <span class="year-badge">2024</span></div>
+  <div class="authors">Fu, Y.; Hu, F.; Wang, F.*; Xu, M.; Jia, Z.; Amelung, W.; <strong>Mei, Z.</strong>; ... Tiedje, J. M.</div>
+  <div class="venue">Environmental Science & Technology, 58, 10216-10226</div>
+  <div class="links">
+    <a href="https://doi.org/10.1021/acs.est.3c10423" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="title">Soil properties and organochlorine compounds co-shape the microbial community structure: a case study of an obsolete site <span class="year-badge">2024</span></div>
+  <div class="authors">Liu, Y.; Wang, F.*; Wang, Z.; Xiang, L.; Fu, Y.; Zhao, Z.; Kengara, F. O.; <strong>Mei, Z.</strong>; ... Jiang, X.</div>
+  <div class="venue">Environmental Research, 240(1), 117589</div>
+  <div class="links">
+    <a href="https://doi.org/10.1016/j.envres.2023.117589" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="title">Manure sterilization reduced antibiotic resistance genes in lettuce endophytes <span class="year-badge">2024</span></div>
+  <div class="authors">Dou, Q.; Liang, Y.; Fu, Y.; <strong>Mei, Z.</strong>; ... Wang, F.*</div>
+  <div class="venue">Journal of Cleaner Production, 476, 143789</div>
+  <div class="links">
+    <a href="https://doi.org/10.1016/j.jclepro.2024.143789" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="title">Aspirin altered antibiotic resistance genes response to sulfonamide in the gut microbiome of zebrafish <span class="year-badge">2024</span></div>
+  <div class="authors">Guo, X.; Zhao, W.; Yin, D.; <strong>Mei, Z.</strong>; ... Xu, T.</div>
+  <div class="venue">Environmental Pollution, 359(15), 124566</div>
+  <div class="links">
+    <a href="https://doi.org/10.1016/j.envpol.2024.124566" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="title">Gut microbiota research nexus: One Health relationship between human, animal, and environmental resistomes <span class="year-badge">2023</span></div>
+  <div class="authors">Fu, Y.; Dou, Q.; Smalla, K.; Wang, Y.; Johnson, T. A.; Brandt, K. K.; <strong>Mei, Z.</strong>; ... Tiedje, J. M.</div>
+  <div class="venue">mLife, 2(4), 1-15</div>
+  <div class="links">
+    <a href="https://doi.org/10.1002/mlf2.12101" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="title">Antibiotic resistance genes in food production systems support One Health opinions <span class="year-badge">2023</span></div>
+  <div class="authors">Tiedje, J. M.*; Fu, Y.; <strong>Mei, Z.</strong>; ... Wang, F.*</div>
+  <div class="venue">Current Opinion in Environmental Science & Health, 34, 100492</div>
+  <div class="links">
+    <a href="https://doi.org/10.1016/j.coesh.2023.100492" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="title">Syntrophy of bacteria and archaea in the anaerobic catabolism of hydrocarbon contaminants <span class="year-badge">2023</span></div>
+  <div class="authors">Harindintwali, D.; Xiang, L.; Wang, F.*; Chang, S. X.; Zhao, Z.; <strong>Mei, Z.</strong>; ... Tiedje, J. M.</div>
+  <div class="venue">Critical Reviews in Environmental Science and Technology, 53(13), 1331-1357</div>
+  <div class="links">
+    <a href="https://doi.org/10.1080/10643389.2022.2134702" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="title">Manure- and straw-derived biochars reduce the ecological risk of PBDE and promote nitrogen cycling by shaping microbiomes in PBDE-contaminated soil <span class="year-badge">2023</span></div>
+  <div class="authors">Xiang, L.; Harindintwali, J. D.; Wang, F.*; Bian, Y.; Zhao, Z.; Wang, Z.; Wang, M.; <strong>Mei, Z.</strong>; ... Xing, B.</div>
+  <div class="venue">Chemosphere, 312, 137262</div>
+  <div class="links">
+    <a href="https://doi.org/10.1016/j.chemosphere.2022.137262" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="title">Application of magnetic biochar/quaternary phosphonium salt to combat the antibiotic resistome in livestock wastewater <span class="year-badge">2022</span></div>
+  <div class="authors">Fu, Y.; Wang, F.*; Wang, Z.; <strong>Mei, Z.</strong>; ... Tiedje, J. M.</div>
+  <div class="venue">Science of the Total Environment, 811, 151386</div>
+  <div class="links">
+    <a href="https://doi.org/10.1016/j.scitotenv.2021.151386" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="title">Strategy for mitigating antibiotic resistance by biochar and hyperaccumulators in cadmium and oxytetracycline co-contaminated soil <span class="year-badge">2021</span></div>
+  <div class="authors">Fu, Y.; Jia, M.; Wang, F.*; Wang, Z.; <strong>Mei, Z.</strong>; ... Tiedje, J. M.</div>
+  <div class="venue">Environmental Science & Technology, 55(24), 16369-16378</div>
+  <div class="links">
+    <a href="https://doi.org/10.1021/acs.est.1c03434" target="_blank">DOI</a>
+  </div>
+</div>
+
+---
+
 <div class="note-box">
-  This page lists first-author publications only. For a complete list of all publications, please visit my <a href="https://orcid.org/0000-0003-4840-3194" target="_blank">ORCID profile</a>.
+  For a complete list of all publications, please visit my <a href="https://orcid.org/0000-0003-4840-3194" target="_blank">ORCID profile</a>.
 </div>

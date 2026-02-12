@@ -157,7 +157,7 @@ redirect_from:
 
 **Marie Sklodowska-Curie Postdoctoral Fellow (MSCA PF 2024)**  
 Catalan Institute for Water Research (ICRA), Girona, Spain  
-Host: Prof. José Luis Balcázar Rojas · Project: NPLAMR
+Host: Prof. José Luis Balcázar Rojas · Project: NPLAMR101206348
 
 I am an environmental microbiologist dedicated to understanding and combating **antimicrobial resistance (AMR)** in environmental systems. My research integrates cutting-edge molecular techniques — including DNA stable isotope probing (DNA-SIP), metagenomics, high-throughput qPCR, and epicPCR — with ecological insights to address one of the most pressing global health challenges.
 
@@ -175,10 +175,6 @@ I focus on unraveling the complex dynamics of **antibiotic resistance genes (ARG
   <div class="metric">
     <span class="metric-number">10</span>
     <span class="metric-label">i10-index</span>
-  </div>
-  <div class="metric">
-    <span class="metric-number">4</span>
-    <span class="metric-label">First-Author Papers</span>
   </div>
 </div>
 

@@ -260,5 +260,4 @@ I focus on unraveling the complex dynamics of **antibiotic resistance genes (ARG
 <div class="contact-box">
   <p><strong>Email:</strong> <a href="mailto:zmei@icra.cat">zmei@icra.cat</a> &nbsp;|&nbsp; <a href="mailto:zhi.mei.may@outlook.com">zhi.mei.may@outlook.com</a></p>
   <p><strong>ORCID:</strong> <a href="https://orcid.org/0000-0003-4840-3194" target="_blank">0000-0003-4840-3194</a></p>
-  <p><strong>Address:</strong> ICRA, H2O Building, Research and Innovation Park of the University of Girona, Emili Grahit 101, 17003 Girona, Spain</p>
 </div>

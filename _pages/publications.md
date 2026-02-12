@@ -112,10 +112,6 @@ author_profile: true
 
 <div class="pub-stats">
   <div class="pub-stat">
-    <span class="pub-stat-num">4</span>
-    <span class="pub-stat-label">First-Author Papers</span>
-  </div>
-  <div class="pub-stat">
     <span class="pub-stat-num">429</span>
     <span class="pub-stat-label">Total Citations</span>
   </div>

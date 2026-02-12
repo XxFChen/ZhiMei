@@ -253,25 +253,12 @@ I focus on unraveling the complex dynamics of **antibiotic resistance genes (ARG
   </div>
 </div>
 
-<div class="pub-entry">
-  <div class="pub-title">Biochar-based bacterial biofilms accelerate antibiotic degradation and mitigate resistome as revealed by DNA-SIP and metagenomics <span class="pub-year-badge revision">In Revision</span></div>
-  <div class="pub-authors"><strong>Mei, Z.</strong>, et al.</div>
-  <div class="pub-venue">Communications Earth &amp; Environment — In revision</div>
-</div>
-
-<div class="pub-entry">
-  <div class="pub-title">Extracellular Masking versus Intracellular Stress: Size-dependent Nanoplastics Decouple Bacterial Viability from Antibiotic Biodegradation <span class="pub-year-badge prep">In Prep</span></div>
-  <div class="pub-authors"><strong>Mei, Z.</strong>, et al.</div>
-  <div class="pub-venue">Manuscript in preparation</div>
-</div>
-
 ---
 
 <h2 class="section-title">Contact</h2>
 
 <div class="contact-box">
   <p><strong>Email:</strong> <a href="mailto:zmei@icra.cat">zmei@icra.cat</a> &nbsp;|&nbsp; <a href="mailto:zhi.mei.may@outlook.com">zhi.mei.may@outlook.com</a></p>
-  <p><strong>Phone:</strong> +34 621 500 681 &nbsp;|&nbsp; +86 188 4495 3395</p>
   <p><strong>ORCID:</strong> <a href="https://orcid.org/0000-0003-4840-3194" target="_blank">0000-0003-4840-3194</a></p>
   <p><strong>Address:</strong> ICRA, H2O Building, Research and Innovation Park of the University of Girona, Emili Grahit 101, 17003 Girona, Spain</p>
 </div>

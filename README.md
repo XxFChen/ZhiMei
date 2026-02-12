@@ -21,7 +21,6 @@ This website showcases:
 ## Contact
 
 - **Email**: zmei@icra.cat | zhi.mei.may@outlook.com
-- **Phone**: +34 621 500 681 | +86 188 4495 3395
 - **ORCID**: [0000-0003-4840-3194](https://orcid.org/0000-0003-4840-3194)
 
 ## Technical Details

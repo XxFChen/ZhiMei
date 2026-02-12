@@ -9,40 +9,6 @@ redirect_from:
 
 <style>
 /* ===== Clean Professional Theme ===== */
-.about-header {
-  display: flex;
-  align-items: center;
-  gap: 30px;
-  margin-bottom: 30px;
-  flex-wrap: wrap;
-}
-.about-photo {
-  flex-shrink: 0;
-}
-.about-photo img {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-  object-position: top;
-  border-radius: 50%;
-  border: 4px solid #e8e8e8;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-}
-.about-intro h1 {
-  font-size: 1.8em;
-  margin: 0 0 5px 0;
-  color: #1a1a2e;
-}
-.about-intro .position {
-  font-size: 1.05em;
-  color: #16213e;
-  margin-bottom: 5px;
-  font-weight: 500;
-}
-.about-intro .institution {
-  color: #666;
-  font-size: 0.95em;
-}
 .section-title {
   font-size: 1.3em;
   color: #1a1a2e;
@@ -187,18 +153,11 @@ redirect_from:
 }
 </style>
 
-<!-- Hero Section -->
-<div class="about-header">
-  <div class="about-photo">
-    <img src="{{ site.baseurl }}/images/profile.jpg" alt="Zhi Mei">
-  </div>
-  <div class="about-intro">
-    <h1>Zhi Mei (梅志)</h1>
-    <div class="position">Marie Sklodowska-Curie Postdoctoral Fellow (MSCA PF 2024)</div>
-    <div class="institution">Catalan Institute for Water Research (ICRA), Girona, Spain</div>
-    <div class="institution">Host: Prof. José Luis Balcázar Rojas &nbsp;·&nbsp; Project: NPLAMR</div>
-  </div>
-</div>
+## Zhi Mei (梅芝)
+
+**Marie Sklodowska-Curie Postdoctoral Fellow (MSCA PF 2024)**  
+Catalan Institute for Water Research (ICRA), Girona, Spain  
+Host: Prof. José Luis Balcázar Rojas · Project: NPLAMR
 
 I am an environmental microbiologist dedicated to understanding and combating **antimicrobial resistance (AMR)** in environmental systems. My research integrates cutting-edge molecular techniques — including DNA stable isotope probing (DNA-SIP), metagenomics, high-throughput qPCR, and epicPCR — with ecological insights to address one of the most pressing global health challenges.
 

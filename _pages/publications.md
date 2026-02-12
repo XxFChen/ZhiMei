@@ -198,7 +198,7 @@ author_profile: true
 
 ---
 
-<h2 class="pub-section-title">Co-Author Publications (Selected)</h2>
+<h2 class="pub-section-title">Co-Author Publications</h2>
 
 <div class="pub-card">
   <div class="title">Distinct assembly patterns of soil antibiotic resistome revealed by land-use changes over 30 years <span class="year-badge">2024</span></div>

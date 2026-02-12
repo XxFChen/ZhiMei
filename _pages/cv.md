@@ -182,9 +182,6 @@ redirect_from:
   <li><strong>Marie Sklodowska-Curie Actions Postdoctoral Fellowship (MSCA PF 2024)</strong><br>Grant Agreement No. 101206348 (NPLAMR)</li>
   <li><strong>Friends Scholarship by the DAAD-Stiftung</strong><br>Grant Agreement No. 57817788 · China Scholarship Council (CSC)</li>
   <li><strong>China Scholarship Council (CSC)</strong><br>Visiting Ph.D. Program at University of Helsinki, 2022–2023</li>
-  <li><strong>International Atomic Energy Agency (IAEA) Project D15022</strong><br>Isotopic techniques to assess the fate of antimicrobials and implications for AMR in agricultural systems · Project Principal Contributor, 2021–2024</li>
-  <li><strong>NSFC 41977137</strong><br>Reduction of ARGs from organic fertilizer sources in soil by microbial biofilm · Project Principal Contributor, 2020–2024</li>
-  <li><strong>NSFC 21677149</strong><br>Biomass char inhibition on migration of ARGs from organic fertilizer sources in soil to plants · Project Principal Contributor, 2018–2020</li>
 </ul>
 
 ---

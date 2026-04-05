@@ -90,6 +90,15 @@ author_profile: true
 <h2 class="pub-section-title">Peer-Reviewed Journal Articles</h2>
 
 <div class="pub-card">
+  <div class="title">Current understanding of viral contributions to soil carbon cycling <span class="year-badge">2026</span></div>
+  <div class="authors"><strong>Mei, Z.</strong>, Balcázar, J. L.</div>
+  <div class="venue">Nature Reviews Earth & Environment</div>
+  <div class="links">
+    <a href="https://doi.org/10.1038/s43017-026-00774-2" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
   <div class="title">Antibiotic-degrading bacteria shape resistome dynamics and horizontal gene transfer potential in soils with contrasting properties <span class="year-badge">2026</span></div>
   <div class="authors"><strong>Mei, Z.</strong>, He, C.; Balcázar, J. L.; Fu, Y.; Dou, Q.; Liu, Y.; Dercon, G.; Jiang, X.; Elsner, M.; Wang, F.*</div>
   <div class="venue">ISME Communications, 6(1), ycaf246</div>

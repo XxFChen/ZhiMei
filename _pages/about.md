@@ -156,6 +156,7 @@ I focus on unraveling the complex dynamics of **antibiotic resistance genes (ARG
 <h2 class="section-title">News</h2>
 
 <ul class="news-list">
+  <li><span class="news-date">Apr 2026</span> Review published in <em>Nature Reviews Earth & Environment</em> on viral contributions to soil carbon cycling</li>
   <li><span class="news-date">Jan 2026</span> New paper published in <em>ISME Communications</em> on antibiotic-degrading bacteria and resistome dynamics</li>
   <li><span class="news-date">Nov 2025</span> Started MSCA Postdoctoral Fellowship at ICRA, Girona, Spain</li>
   <li><span class="news-date">Jul 2025</span> Joined University of Bonn as Postdoctoral Researcher (DAAD Fellowship)</li>
@@ -165,6 +166,15 @@ I focus on unraveling the complex dynamics of **antibiotic resistance genes (ARG
 ---
 
 <h2 class="section-title">First-Author Publications</h2>
+
+<div class="pub-entry">
+  <div class="pub-title">Current understanding of viral contributions to soil carbon cycling <span class="pub-year-badge">2026</span></div>
+  <div class="pub-authors"><strong>Mei, Z.</strong>, Balcázar, J. L.</div>
+  <div class="pub-venue">Nature Reviews Earth & Environment</div>
+  <div class="pub-links">
+    <a href="https://doi.org/10.1038/s43017-026-00774-2" target="_blank">DOI</a>
+  </div>
+</div>
 
 <div class="pub-entry">
   <div class="pub-title">Antibiotic-degrading bacteria shape resistome dynamics and horizontal gene transfer potential in soils with contrasting properties <span class="pub-year-badge">2026</span></div>

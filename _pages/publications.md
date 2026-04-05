@@ -14,31 +14,6 @@ author_profile: true
   margin-top: 35px;
   margin-bottom: 20px;
 }
-.pub-stats {
-  display: flex;
-  justify-content: center;
-  gap: 40px;
-  flex-wrap: wrap;
-  background: #f7f9fc;
-  padding: 25px 20px;
-  border-radius: 10px;
-  margin: 25px 0;
-  border: 1px solid #e8e8e8;
-}
-.pub-stat {
-  text-align: center;
-}
-.pub-stat-num {
-  font-size: 2em;
-  font-weight: 700;
-  color: #0f3460;
-  display: block;
-  line-height: 1.2;
-}
-.pub-stat-label {
-  font-size: 0.85em;
-  color: #666;
-}
 .pub-card {
   padding: 18px 20px;
   margin-bottom: 15px;
@@ -109,23 +84,6 @@ author_profile: true
 }
 .note-box a { color: #0f3460; }
 </style>
-
-<div class="pub-stats">
-  <div class="pub-stat">
-    <span class="pub-stat-num">429</span>
-    <span class="pub-stat-label">Total Citations</span>
-  </div>
-  <div class="pub-stat">
-    <span class="pub-stat-num">10</span>
-    <span class="pub-stat-label">h-index</span>
-  </div>
-  <div class="pub-stat">
-    <span class="pub-stat-num">10</span>
-    <span class="pub-stat-label">i10-index</span>
-  </div>
-</div>
-
-<p style="text-align:center; color:#999; font-size:0.82em;">Google Scholar, as of February 2026 · <a href="https://orcid.org/0000-0003-4840-3194" target="_blank" style="color:#0f3460;">ORCID Profile</a></p>
 
 ---
 

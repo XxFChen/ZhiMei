@@ -32,31 +32,6 @@ redirect_from:
   color: #333;
   line-height: 1.5;
 }
-.metrics-row {
-  display: flex;
-  justify-content: center;
-  gap: 40px;
-  flex-wrap: wrap;
-  background: #f7f9fc;
-  padding: 25px 20px;
-  border-radius: 10px;
-  margin: 25px 0;
-  border: 1px solid #e8e8e8;
-}
-.metric {
-  text-align: center;
-}
-.metric-number {
-  font-size: 2em;
-  font-weight: 700;
-  color: #0f3460;
-  display: block;
-  line-height: 1.2;
-}
-.metric-label {
-  font-size: 0.85em;
-  color: #666;
-}
 .news-list {
   list-style: none;
   padding: 0;
@@ -163,23 +138,6 @@ I am an environmental microbiologist dedicated to understanding and combating **
 
 I focus on unraveling the complex dynamics of **antibiotic resistance genes (ARGs)** in soil-water-plant systems, investigating resistome transmission, horizontal gene transfer, and developing biochar-based mitigation strategies.
 
-<div class="metrics-row">
-  <div class="metric">
-    <span class="metric-number">429</span>
-    <span class="metric-label">Citations</span>
-  </div>
-  <div class="metric">
-    <span class="metric-number">10</span>
-    <span class="metric-label">h-index</span>
-  </div>
-  <div class="metric">
-    <span class="metric-number">10</span>
-    <span class="metric-label">i10-index</span>
-  </div>
-</div>
-
-<p style="text-align:center; color:#999; font-size:0.82em;">Google Scholar, as of February 2026</p>
-
 ---
 
 <h2 class="section-title">Research Interests</h2>
@@ -206,7 +164,7 @@ I focus on unraveling the complex dynamics of **antibiotic resistance genes (ARG
 
 ---
 
-<h2 class="section-title">Selected First-Author Publications</h2>
+<h2 class="section-title">First-Author Publications</h2>
 
 <div class="pub-entry">
   <div class="pub-title">Antibiotic-degrading bacteria shape resistome dynamics and horizontal gene transfer potential in soils with contrasting properties <span class="pub-year-badge">2026</span></div>

@@ -90,6 +90,15 @@ author_profile: true
 <h2 class="pub-section-title">Peer-Reviewed Journal Articles</h2>
 
 <div class="pub-card">
+  <div class="title">Biochar-based composite drives sulfadiazine sequestration and mitigates active resistome risks <span class="year-badge">2026</span></div>
+  <div class="authors"><strong>Mei, Z.</strong>, Wang, F., Balcázar, J. L., et al.</div>
+  <div class="venue">Communications Earth &amp; Environment (2026)</div>
+  <div class="links">
+    <a href="https://doi.org/10.1038/s43247-026-03614-9" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
   <div class="title">Current understanding of viral contributions to soil carbon cycling <span class="year-badge">2026</span></div>
   <div class="authors"><strong>Mei, Z.</strong>, Balcázar, J. L.</div>
   <div class="venue">Nature Reviews Earth & Environment</div>
@@ -150,12 +159,6 @@ author_profile: true
 ---
 
 <h2 class="pub-section-title">Manuscripts in Progress</h2>
-
-<div class="pub-card">
-  <div class="title">Biochar-based bacterial biofilms accelerate antibiotic degradation and mitigate resistome as revealed by DNA-SIP and metagenomics <span class="year-badge revision">In Revision</span></div>
-  <div class="authors"><strong>Mei, Z.</strong>, et al.</div>
-  <div class="venue">Communications Earth &amp; Environment</div>
-</div>
 
 <div class="pub-card">
   <div class="title">Extracellular Masking versus Intracellular Stress: Size-dependent Nanoplastics Decouple Bacterial Viability from Antibiotic Biodegradation <span class="year-badge prep">In Prep</span></div>

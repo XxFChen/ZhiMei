@@ -180,7 +180,7 @@ redirect_from:
 
 <ul class="grant-list">
   <li><strong>Marie Sklodowska-Curie Actions Postdoctoral Fellowship (MSCA PF 2024)</strong><br>Grant Agreement No. 101206348 (NPLAMR)</li>
-  <li><strong>Friends Scholarship by the DAAD-Stiftung</strong><br>Grant Agreement No. 57817788 · China Scholarship Council (CSC)</li>
+  <li><strong><a href="https://www.daad-stiftung.de/foerderer-und-gefoerderte/testimonials-stipendiaten/artikel/en/90120-zhi-mei/" target="_blank">DAAD-Stiftung Friends Scholarship</a></strong><br>Grant Agreement No. 57817788 · China Scholarship Council (CSC)</li>
   <li><strong>China Scholarship Council (CSC)</strong><br>Visiting Ph.D. Program at University of Helsinki, 2022–2023</li>
 </ul>
 

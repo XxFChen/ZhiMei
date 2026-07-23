@@ -140,7 +140,7 @@ redirect_from:
 </div>
 
 <div class="cv-card">
-  <div class="cv-role">Postdoctoral Researcher</div>
+  <div class="cv-role">Visiting Postdoctoral Researcher</div>
   <div class="cv-org">University of Bonn, INRES – Soil Science and Soil Ecology, Germany</div>
   <div class="cv-date">Jul 2025 – Oct 2025</div>
   <div class="cv-detail">

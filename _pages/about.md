@@ -156,6 +156,7 @@ I focus on unraveling the complex dynamics of **antibiotic resistance genes (ARG
 <h2 class="section-title">News</h2>
 
 <ul class="news-list">
+  <li><span class="news-date">Jun 2026</span> Commentary published in <em>Applied and Environmental Microbiology</em> on the emerging link between plastic pollution and antimicrobial resistance</li>
   <li><span class="news-date">May 2026</span> New paper published in <em>Communications Earth &amp; Environment</em> on biochar-based composite for sulfadiazine sequestration and resistome mitigation</li>
   <li><span class="news-date">Apr 2026</span> Comment published in <em>Nature Reviews Earth & Environment</em> on viral contributions to soil carbon cycling</li>
   <li><span class="news-date">Jan 2026</span> New paper published in <em>ISME Communications</em> on antibiotic-degrading bacteria and resistome dynamics</li>
@@ -167,6 +168,15 @@ I focus on unraveling the complex dynamics of **antibiotic resistance genes (ARG
 ---
 
 <h2 class="section-title">First-Author Publications</h2>
+
+<div class="pub-entry">
+  <div class="pub-title">Plastic pollution and antimicrobial resistance: an emerging link with major implications <span class="pub-year-badge">2026</span></div>
+  <div class="pub-authors"><strong>Mei, Z.</strong>, Rodríguez, E. A., Balcázar, J. L.</div>
+  <div class="pub-venue">Applied and Environmental Microbiology (2026)</div>
+  <div class="pub-links">
+    <a href="https://doi.org/10.1128/aem.00973-26" target="_blank">DOI</a>
+  </div>
+</div>
 
 <div class="pub-entry">
   <div class="pub-title">Biochar-based composite drives sulfadiazine sequestration and mitigates active resistome risks <span class="pub-year-badge">2026</span></div>

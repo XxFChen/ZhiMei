@@ -90,6 +90,15 @@ author_profile: true
 <h2 class="pub-section-title">Peer-Reviewed Journal Articles</h2>
 
 <div class="pub-card">
+  <div class="title">Plastic pollution and antimicrobial resistance: an emerging link with major implications <span class="year-badge">2026</span></div>
+  <div class="authors"><strong>Mei, Z.</strong>, Rodríguez, E. A., Balcázar, J. L.</div>
+  <div class="venue">Applied and Environmental Microbiology (2026)</div>
+  <div class="links">
+    <a href="https://doi.org/10.1128/aem.00973-26" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
   <div class="title">Biochar-based composite drives sulfadiazine sequestration and mitigates active resistome risks <span class="year-badge">2026</span></div>
   <div class="authors"><strong>Mei, Z.</strong>, Wang, F., Balcázar, J. L., et al.</div>
   <div class="venue">Communications Earth &amp; Environment (2026)</div>

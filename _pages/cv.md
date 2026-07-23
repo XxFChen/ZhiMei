@@ -145,7 +145,7 @@ redirect_from:
   <div class="cv-date">Jul 2025 – Oct 2025</div>
   <div class="cv-detail">
     Supervisor: Prof. Wulf Amelung<br>
-    Funding: Friends Scholarship by the DAAD-Stiftung<br>
+    Funding: <a href="https://www.daad-stiftung.de/foerderer-und-gefoerderte/testimonials-stipendiaten/artikel/en/90120-zhi-mei/" target="_blank">DAAD-Stiftung Friends Scholarship</a><br>
     Research focus: Microbial ecology of soil macroaggregates
   </div>
 </div>

@@ -90,6 +90,15 @@ author_profile: true
 <h2 class="pub-section-title">Peer-Reviewed Journal Articles</h2>
 
 <div class="pub-card">
+  <div class="title">Nanoplastic size governs the decoupling of microbial survival from antibiotic degradation <span class="year-badge">2026</span></div>
+  <div class="authors"><strong>Mei, Z.</strong>, Law, J. C.-F.; Zhou, Y.; Wang, F.; Wang, Y.; Balcázar, J. L.; Yang, X.; Leung, K. S.-Y.*</div>
+  <div class="venue">Environmental Science &amp; Technology (2026)</div>
+  <div class="links">
+    <a href="https://doi.org/10.1021/acs.est.6c05431" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
   <div class="title">Plastic pollution and antimicrobial resistance: an emerging link with major implications <span class="year-badge">2026</span></div>
   <div class="authors"><strong>Mei, Z.</strong>, Rodríguez, E. A., Balcázar, J. L.</div>
   <div class="venue">Applied and Environmental Microbiology (2026)</div>

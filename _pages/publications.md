@@ -90,9 +90,9 @@ author_profile: true
 <h2 class="pub-section-title">Peer-Reviewed Journal Articles</h2>
 
 <div class="pub-card">
-  <div class="title">Nanoplastic size governs the decoupling of microbial survival from antibiotic degradation <span class="year-badge">2026</span></div>
+  <div class="title">Nanoplastic Size Governs the Decoupling of Microbial Survival from Antibiotic Degradation <span class="year-badge">2026</span></div>
   <div class="authors"><strong>Mei, Z.</strong>, Law, J. C.-F.; Zhou, Y.; Wang, F.; Wang, Y.; Balcázar, J. L.; Yang, X.; Leung, K. S.-Y.*</div>
-  <div class="venue">Environmental Science &amp; Technology (2026)</div>
+  <div class="venue">Environmental Science &amp; Technology, 60(46), 33538–33552 (2026) <strong>[Supplementary Cover Article]</strong></div>
   <div class="links">
     <a href="https://doi.org/10.1021/acs.est.6c05431" target="_blank">DOI</a>
   </div>

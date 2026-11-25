@@ -171,9 +171,9 @@ I focus on unraveling the complex dynamics of **antibiotic resistance genes (ARG
 <h2 class="section-title">First-Author Publications</h2>
 
 <div class="pub-entry">
-  <div class="pub-title">Nanoplastic size governs the decoupling of microbial survival from antibiotic degradation <span class="pub-year-badge">2026</span></div>
+  <div class="pub-title">Nanoplastic Size Governs the Decoupling of Microbial Survival from Antibiotic Degradation <span class="pub-year-badge">2026</span></div>
   <div class="pub-authors"><strong>Mei, Z.</strong>, Law, J. C.-F.; Zhou, Y.; Wang, F.; Wang, Y.; Balcázar, J. L.; Yang, X.; Leung, K. S.-Y.*</div>
-  <div class="pub-venue">Environmental Science &amp; Technology (2026)</div>
+  <div class="pub-venue">Environmental Science &amp; Technology, 60(46), 33538–33552 (2026) <strong>[Supplementary Cover Article]</strong></div>
   <div class="pub-links">
     <a href="https://doi.org/10.1021/acs.est.6c05431" target="_blank">DOI</a>
   </div>
